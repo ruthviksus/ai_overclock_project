@@ -1,0 +1,28 @@
+import subprocess
+
+def benchmark():
+    furmark_path = "C:\Program Files (x86)\Geeks3D\Benchmarks\FurMark\furmark.exe"
+
+# Command to run FurMark stress test
+    command = [
+        furmark_path,
+        "-benchmark",              
+        "/duration 60000",                                           
+        "/nogui /width 2560 /height 1440",                 
+    ]
+    # Run FurMark and wait for completion
+    try:    
+        process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        stdout, stderr = process.communicate()
+
+        if process.returncode != 0:
+            print(f"FurMark failed: {stderr.decode()}")
+            return -1  # Return a negative value if FurMark fails
+        else:
+            print(f"FurMark output: {stdout.decode()}")
+            # Simulated performance score or actual parsing logic here
+            score = 100  # Example score
+            return score
+    except Exception as e:
+        print(f"Error running FurMark: {e}")
+        return -1  # Handle error gracefully

@@ -1,0 +1,16 @@
+{"configurations": [
+    {
+        "name": "Win32",
+        "includePath": [
+            "${workspaceFolder}/**", 
+            "C:\\NVIDIA\\NVAPI\\R560-developer"  // Update this path to where nvapi.h is located
+        ],
+        "defines": [],
+        "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe.config",  // Specify your compiler path if needed
+        "cStandard": "c11",
+        "cppStandard": "c++17",
+        "intelliSenseMode": "windows-gcc-x64"
+    }
+],
+"version": 4
+}

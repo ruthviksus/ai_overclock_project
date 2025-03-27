@@ -1,0 +1,8 @@
+NVIDIA GeForce RTX 3070 Ti - [TIME_MS=3435] - [Frames=200] - [Resolution=2564x1421] - [MSAA=8X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=50.0A - FurMark 1.38.1.0 - [Date=Sun Feb 16 23:32:45 2025 ]
+NVIDIA GeForce RTX 3070 Ti - [TIME_MS=3471] - [Frames=200] - [Resolution=2564x1421] - [MSAA=8X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=51.0A - FurMark 1.38.1.0 - [Date=Sun Feb 16 23:33:40 2025 ]
+NVIDIA GeForce RTX 3070 Ti - [TIME_MS=3550] - [Frames=200] - [Resolution=2564x1421] - [MSAA=8X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=51.0A - FurMark 1.38.1.0 - [Date=Sun Feb 16 23:35:33 2025 ]
+NVIDIA GeForce RTX 3070 Ti - [TIME_MS=3438] - [Frames=200] - [Resolution=2564x1421] - [MSAA=8X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=49.0A - FurMark 1.38.1.0 - [Date=Sun Feb 16 23:39:16 2025 ]
+NVIDIA GeForce RTX 3070 Ti - [TIME_MS=3426] - [Frames=200] - [Resolution=2564x1421] - [MSAA=8X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=49.0A - FurMark 1.38.1.0 - [Date=Sun Feb 16 23:42:29 2025 ]
+NVIDIA GeForce RTX 3070 Ti - [FRAMES=3483] - [TIME_MS=60000] - [Resolution=2564x1421] - [MSAA=8X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=64.0A - FurMark 1.38.1.0 - [Date=Sun Feb 16 23:48:37 2025 ]
+NVIDIA GeForce RTX 3070 Ti - [FRAMES=3472] - [TIME_MS=60000] - [Resolution=2564x1421] - [MSAA=8X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=65.0A - FurMark 1.38.1.0 - [Date=Sun Feb 16 23:51:29 2025 ]
+NVIDIA GeForce RTX 3070 Ti - [FRAMES=3506] - [TIME_MS=60000] - [Resolution=2564x1421] - [MSAA=8X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=63.0A - FurMark 1.38.1.0 - [Date=Mon Feb 17 11:40:05 2025 ]
