@@ -1,1 +1,1 @@
-The Final project is the complete overclocker while the other files are steps and peices for the main one.
+The Final project is the complete overclocker while the other files are steps and peices for the main one. This only works for Nvidia Dedicated GPUs which support Nvidia-SMI tinkering and I have already tested this on my home computer and it works pretty well. 
